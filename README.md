@@ -1,3 +1,2 @@
-# Get Started!
-
-Add files and start typing 🎉
+# toplantibot
+dc v12 toplantı
