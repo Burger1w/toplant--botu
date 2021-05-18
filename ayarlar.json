@@ -1,21 +1,22 @@
 {
-  "prefix" : ".",
-  "sahip" : "667073118900322323",
-  "token" : "ODM3MjEwMzAyMDU4OTg3NTUx.YIpO2g.39Au1BtOhSFj4dN9EvBUUFiaVfA",
+  
+  "prefix" : "",
+  "sahip" : "",
+  "token" : "",
   
   
-  "ayarlar.modrol": "844222679035936829",
+  "modrol": "",
   
-  "toplantıodasi": "841727078361071621",
-  "toplantıyetkili": "844222706558828564",
-  "katıldı" : "844222814407622776",
-  "katılmadı" : "844222827334205440",
+  "toplantıodasi": "",
+  "toplantıyetkili": "",
+  "katıldı" : "",
+  "katılmadı" : "",
   
-  "mazaretli" : "844222780135964723",
+  "mazaretli" : "",
   
   
   "red": "",
   
+  "ready": ""
   
-  "ready" ""
 }

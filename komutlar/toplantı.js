@@ -12,8 +12,8 @@ if(!message.member.hasPermission('ADMINISTRATOR')) return  message.react(ayarlar
 message.delete()
 message.channel.send("<@&" + ayarlar.toplantıyetkili + ">  Toplantı Birazdan Başlayacak, Eğer Katılmayacaksanız Katılmama Sebebi Girmeniz Gerekir `.toplantı sebep` Yazarak Sebebinizi Belirtebilirsiniz")
 message.guild.members.cache.forEach(a => {
-    if(a.roles.cache.has("811684534872834050")) {
-     a.roles.add("813785571964616744")//burada herkese katılmadı ekliyoruz toplantının ortasında yapacağımız +toplantı yoklama ile toplantıdakilere zaten katıldı rolünü vereceğiz
+    if(a.roles.cache.has(ayarlar.toplantıyetkili)) {
+     a.roles.add(ayarlar.katılmadı)
     }
     });
 }
